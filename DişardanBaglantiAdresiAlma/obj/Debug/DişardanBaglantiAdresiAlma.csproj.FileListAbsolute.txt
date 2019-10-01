@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\bin\Debug\DişardanBaglantiAdresiAlma.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\bin\Debug\DişardanBaglantiAdresiAlma.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\bin\Debug\DişardanBaglantiAdresiAlma.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\DişardanBaglantiAdresiAlma\DişardanBaglantiAdresiAlma\obj\Debug\DişardanBaglantiAdresiAlma.pdb
